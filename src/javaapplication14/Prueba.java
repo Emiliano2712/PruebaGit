@@ -10,5 +10,5 @@ package javaapplication14;
  * @author emiliano
  */
 public class Prueba {
-    System.out.println("Espero y se agregue");
+   
 }
